@@ -234,7 +234,7 @@ df.head()
 
 
 
-# 4. Analize dos dados
+# 4. Análise dos dados
 
 O numero de instancias deste dataset é mostrado abaixo
 
